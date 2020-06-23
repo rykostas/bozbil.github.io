@@ -3,7 +3,7 @@ layout: default
 
 ---
 Kahraman Koştaş ([ BSc ](http://bote.aef.marmara.edu.tr/en/), [ BA ](http://abp.anadolu.edu.tr/en/program/programProfili/1677/8), [ MSc ](https://www.essex.ac.uk/courses/pg00502/1/msc-computer-networks-and-security))
-
+![](me.jpg)
 
 I am a second year PhD student at [Heriot-Watt University](https://www.hw.ac.uk/), Edinburgh Campus. I graduated from [Marmara University](https://www.marmara.edu.tr/en) with a BSc in Computer Education and Instructional Technology in 2009. I took my MSc degree from [University of Essex](https://www.essex.ac.uk/)  in Computer Networks and Security with Distinction (2018).
 
