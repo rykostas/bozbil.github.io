@@ -13,9 +13,9 @@ author: Kahraman Kostas
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://bozbil.github.io/"
-    - Learn markdown: "https://bozbil.github.io/"
+#  Resources:
+#    - Beautiful Jekyll: "https://bozbil.github.io/"
+#    - Learn markdown: "https://bozbil.github.io/"
   Author's home: "https://bozbil.github.io/"
 
 # --- Logo --- #
