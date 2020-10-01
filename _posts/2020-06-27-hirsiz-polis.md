@@ -95,3 +95,6 @@ F1 Score, Precision ve Recall’un harmonik ortalamasıdır. Harmonik ortalaman�
 
 ![cmd](https://miro.medium.com/max/1400/1*af6_SHR6jPJtMTjbo0IjQw.png)
 <sub><sup>harmonik ortalama vs normal ortalama</sup></sub>
+
+
+<div class="fb-comments" data-href="https://bozbil.github.io/" data-numposts="4" data-width=""></div>
